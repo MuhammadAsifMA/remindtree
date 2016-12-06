@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://gentech.heroku.com'),
 
     /*
     |--------------------------------------------------------------------------
@@ -103,7 +103,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => 'base64:RtBLg6fY5MhlTm4VoG05GCRlGdJao73qYJFRCdyIvnM=',
 
     'cipher' => 'AES-256-CBC',
 
