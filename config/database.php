@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', 'sql106.malikasif.xyz'),
+            'host' => env('DB_HOST', '137.74.54.133'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'remindtree'),
-            'username' => env('DB_USERNAME', 'mlks_18359598'),
-            'password' => env('DB_PASSWORD', 'malikasif'),
+            'username' => env('DB_USERNAME', 'Mystic'),
+            'password' => env('DB_PASSWORD', 'L0v3y0uAsif-'),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
