@@ -54,8 +54,8 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', 'sql106.malikasif.xyz'),
-            'port' => env('DB_PORT', '3306'),
+//             'host' => env('DB_HOST', 'sql106.malikasif.xyz'),
+//             'port' => env('DB_PORT', '3306'),
             'host' => 'sql106.malikasif.xyz',
             'port' => '3306'
             'database' => 'remindtree',
